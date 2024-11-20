@@ -1,3 +1,10 @@
+<div style="color:#e33434;">
+PS：
+<br>
+客服经理：https://t.me/AlanTurings
+<br>
+承接：交易所、刷单、仿TikTok｜Amazon商城、光伏投资理财等源码，或其它仿站
+</div>
 # 号码筛重系统说明
 
 ## 一、系统功能
